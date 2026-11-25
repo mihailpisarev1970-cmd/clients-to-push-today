@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.docx
+*.xlsx
+sheets_dump.txt
